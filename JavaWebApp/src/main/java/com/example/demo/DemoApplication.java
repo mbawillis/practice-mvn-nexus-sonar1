@@ -8,10 +8,10 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-	}
-        String name = "willis";
-		System.out.println(name);
 
-		Integre age = "20";
-		System.our.prinrln(age +5);
+		String name = "willis1";
+
+		System.out.println(name);
+	}
+
 }
